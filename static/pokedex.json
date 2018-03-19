@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": ["grass", "poison"],
+    "height": 70,
+    "weight": 6.9
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": ["grass", "poison"],
+    "height": 100,
+    "weight": 13.0
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": ["grass", "poison"],
+    "height": 200,
+    "weight": 100
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": ["fire"],
+    "height": 60,
+    "weight": 8.5
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": ["fire"],
+    "height": 110,
+    "weight": 19.0
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": ["fire", "flying"],
+    "height": 170,
+    "weight": 90.5
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "type": ["water"],
+    "height": 50,
+    "weight": 9.0
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "type": ["water"],
+    "height": 100,
+    "weight": 22.5
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "type": ["water"],
+    "height": 160,
+    "weight": 85.5
+  }
+]
